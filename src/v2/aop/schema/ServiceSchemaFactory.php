@@ -1,6 +1,6 @@
 <?php
 
-namespace Austin\AlipaySdk\v2\aop\schema;
+namespace Austinylyy\AlipaySdk\v2\aop\schema;
 
 require_once 'XMLAttribute.php';
 require_once 'AttributeRule.php';

@@ -1,6 +1,6 @@
 <?php
 
-namespace Austin\AlipaySdk\v2\aop\request;
+namespace Austinylyy\AlipaySdk\v2\aop\request;
 /**
  * ALIPAY API: ant.merchant.expand.membercard.config.save request
  *

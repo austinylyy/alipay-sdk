@@ -2,9 +2,9 @@
 
 require_once ('../vendor/autoload.php');
 
-use Austin\AlipaySdk\v2\aop\schema\ServiceSchemaWriter;
-use Austin\AlipaySdk\v2\aop\schema\ServiceSchemaFactory;
-use Austin\AlipaySdk\v2\aop\schema\ServiceSchemaReader;
+use Austinylyy\AlipaySdk\v2\aop\schema\ServiceSchemaWriter;
+use Austinylyy\AlipaySdk\v2\aop\schema\ServiceSchemaFactory;
+use Austinylyy\AlipaySdk\v2\aop\schema\ServiceSchemaReader;
 
 //读☺️xml文件 转成数组
 try {

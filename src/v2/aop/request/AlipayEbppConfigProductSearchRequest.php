@@ -1,6 +1,6 @@
 <?php
 
-namespace Austin\AlipaySdk\v2\aop\request;
+namespace Austinylyy\AlipaySdk\v2\aop\request;
 /**
  * ALIPAY API: alipay.ebpp.config.product.search request
  *

@@ -2,10 +2,10 @@
 
 require_once ('../vendor/autoload.php');
 
-use Austin\AlipaySdk\v2\aop\AopClient;
-use Austin\AlipaySdk\v2\aop\request\AlipayTradeQueryRequest;
-use Austin\AlipaySdk\v2\aop\request\AlipayTradeWapPayRequest;
-use Austin\AlipaySdk\v2\aop\request\AlipayTradeAppPayRequest;
+use Austinylyy\AlipaySdk\v2\aop\AopClient;
+use Austinylyy\AlipaySdk\v2\aop\request\AlipayTradeQueryRequest;
+use Austinylyy\AlipaySdk\v2\aop\request\AlipayTradeWapPayRequest;
+use Austinylyy\AlipaySdk\v2\aop\request\AlipayTradeAppPayRequest;
 
 /**
  * 证书类型AopClient功能方法使用测试
