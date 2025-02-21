@@ -1,4 +1,6 @@
 <?php
+
+namespace Austin\AlipaySdk\v2\aop\request;
 /**
  * ALIPAY API: koubei.advert.data.promotesummary.query request
  *

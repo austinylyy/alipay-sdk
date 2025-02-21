@@ -1,6 +1,6 @@
 <?php
 
-require_once '../AopCertification.php';
+require_once ('../vendor/autoload.php');
 
 /**
  * 单独测试根证书校验逻辑（AopCertification.php）

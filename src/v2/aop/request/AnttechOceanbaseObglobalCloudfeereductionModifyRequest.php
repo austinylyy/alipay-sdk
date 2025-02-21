@@ -1,4 +1,6 @@
 <?php
+
+namespace Austin\AlipaySdk\v2\aop\request;
 /**
  * ALIPAY API: anttech.oceanbase.obglobal.cloudfeereduction.modify request
  *

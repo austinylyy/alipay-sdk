@@ -1,4 +1,6 @@
 <?php
+
+namespace Austin\AlipaySdk\v2\aop\request;
 /**
  * ALIPAY API: mybank.marketing.campaign.bkpromosceneorder.point.refund request
  *

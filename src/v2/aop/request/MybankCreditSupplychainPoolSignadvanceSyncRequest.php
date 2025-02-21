@@ -1,4 +1,6 @@
 <?php
+
+namespace Austin\AlipaySdk\v2\aop\request;
 /**
  * ALIPAY API: mybank.credit.supplychain.pool.signadvance.sync request
  *

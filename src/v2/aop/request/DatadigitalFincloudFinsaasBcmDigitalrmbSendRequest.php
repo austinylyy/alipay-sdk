@@ -1,4 +1,6 @@
 <?php
+
+namespace Austin\AlipaySdk\v2\aop\request;
 /**
  * ALIPAY API: datadigital.fincloud.finsaas.bcm.digitalrmb.send request
  *

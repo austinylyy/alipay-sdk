@@ -1,10 +1,7 @@
 <?php
 
-require_once 'AopEncrypt.php';
-require_once 'EncryptParseItem.php';
-require_once 'EncryptResponseData.php';
-require_once 'SignData.php';
-require_once 'AlipayConfig.php';
+namespace Austin\AlipaySdk\v2\aop;
+
 class AopClient
 {
     //应用ID

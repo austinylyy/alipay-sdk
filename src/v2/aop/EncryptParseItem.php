@@ -1,4 +1,7 @@
 <?php
+
+namespace Austin\AlipaySdk\v2\aop;
+
 /**
  *  TODO 补充说明
  *

@@ -1,8 +1,10 @@
 <?php
-require_once '../schema/ServiceSchemaWriter.php';
-require_once '../schema/ServiceSchemaFactory.php';
-require_once '../schema/ServiceSchemaReader.php';
 
+require_once ('../vendor/autoload.php');
+
+use Austin\AlipaySdk\v2\aop\schema\ServiceSchemaWriter;
+use Austin\AlipaySdk\v2\aop\schema\ServiceSchemaFactory;
+use Austin\AlipaySdk\v2\aop\schema\ServiceSchemaReader;
 
 //读☺️xml文件 转成数组
 try {

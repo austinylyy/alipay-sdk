@@ -1,9 +1,11 @@
 <?php
 
-require_once '../aop/AlipayConfig.php';
-require_once '../aop/AopCertClient.php';
-require_once '../aop/AopClient.php';
-require_once '../aop/request/AlipayTradePrecreateRequest.php';
+require_once ('../vendor/autoload.php');
+
+use Austin\AlipaySdk\v2\aop\AlipayConfig;
+use Austin\AlipaySdk\v2\aop\AopCertClient;
+use Austin\AlipaySdk\v2\aop\AopClient;
+use Austin\AlipaySdk\v2\aop\request\AlipayTradePrecreateRequest;
 
 $app_cert_path="your_cert_path";
 $alipay_cert_path="your_alipay_cert_path";

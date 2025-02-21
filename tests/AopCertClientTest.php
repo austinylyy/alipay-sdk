@@ -1,11 +1,11 @@
 <?php
 
-require_once '../AopCertClient.php';
-require_once '../AopCertification.php';
-require_once '../request/AlipayTradeQueryRequest.php';
-require_once '../request/AlipayTradeWapPayRequest.php';
-require_once '../request/AlipayTradeAppPayRequest.php';
+require_once ('../vendor/autoload.php');
 
+use Austin\AlipaySdk\v2\aop\AopCertClient;
+use Austin\AlipaySdk\v2\aop\request\AlipayTradeQueryRequest;
+use Austin\AlipaySdk\v2\aop\request\AlipayTradeWapPayRequest;
+use Austin\AlipaySdk\v2\aop\request\AlipayTradeAppPayRequest;
 
 /**
  * 证书类型AopCertClient功能方法使用测试，特别注意支付宝根证书预计2037年会过期，请在适当时间下载更新支付更证书
