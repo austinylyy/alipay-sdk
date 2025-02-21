@@ -16,5 +16,11 @@
             "email": "austin@gmail.com"
         }
     ],
+    "archive": {
+        "exclude": [
+            "tests",
+            "origin"
+        ]
+    },
     "minimum-stability": "stable"
 }
