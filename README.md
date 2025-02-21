@@ -9,5 +9,5 @@ composer require austinylyy/alipay-sdk
 - 会定期更新支付宝官方的最新版本
 - 会增加一些我自己的功能，到时候更新了再说
 - 有问题可以提 issue，我会尽量解决
-- 原版的 SDK 会放在 origin 目录下，不会有任何修改，只是为了方便对比
-- 官方的 SDK 地址：https://github.com/alipay/alipay-sdk-php-all
+- 原版 SDK 地址： [阿里云原版仓库](https://github.com/austinylyy/alipay-sdk-origin) ，不会有任何修改，只是为了方便对比
+- 官方 SDK 地址：[阿里云官方仓库](https://github.com/alipay/alipay-sdk-php-all)
